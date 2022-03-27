@@ -17,8 +17,46 @@ This a website template for a online candy store.
 I'm a full stack developer, Building solutions to change the world....
 
 
-## License
+## Built With
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- HTML5, CSS3
+- FrameWork used is Bootstrap
+- Git, GitHub, VsCode, google fonts.
+
+## Live Demo (Responsive Web Design for Mobile and Desktop)
+
+[Live Demo Link](https://oshanedesign.github.io/Online-Candy-and-Donut-Store-/)
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+1. Git clone git@github.com:oshanedesign/Online-Candy-and-Donut-Store-.git
+
+2. Cd Online-Candy-and-Donut-Store
+
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@oshanedesign](https://github.com/oshanedesign)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
 
 
