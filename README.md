@@ -1,10 +1,6 @@
 # Online-Candy-and-Donut-Store-
-I created this using only Html and CSS.  
 
-
-# Project Description
-
-This a website template for a online candy store.  
+This a website that displays a Online Candy Store that has the most tasty and sweet candy treats to fill your appetite.
 
 ## Screenshots
 
