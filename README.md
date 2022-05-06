@@ -1,6 +1,6 @@
 # Online-Candy-and-Donut-Store-
 
-This a website that displays a Online Candy Store that has the most tasty and sweet candy treats to fill your appetite.
+This a website that displays a Online Candy Store that has the tastiest and sweet candy treats to fill your appetite.
 
 ## Screenshots
 
