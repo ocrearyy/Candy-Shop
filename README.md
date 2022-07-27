@@ -1,6 +1,6 @@
 # Online-Candy-and-Donut-Store-
 
-This a website that displays a Online Candy Store that has the tastiest and sweet candy treats to fill your appetite.
+A single page website of a candy shop that has the tastiest and sweetest candy treats to fill your appetite.
 
 ## Screenshots
 
@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- GitHub: [@oshanedesign](https://github.com/oshanedesign)
+- GitHub: [@oshanedesign](https://github.com/ocrearyy)
 
 
 ## 🤝 Contributing
