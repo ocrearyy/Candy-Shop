@@ -21,7 +21,7 @@ I'm a full stack developer, Building solutions to change the world....
 
 ## Live Demo (Responsive Web Design for Mobile and Desktop)
 
-[Live Demo Link](https://oshanedesign.github.io/Online-Candy-and-Donut-Store-/)
+[Live Demo Link](https://ocrearyy.github.io/Candy-Shop/)
 
 
 ## Getting Started
