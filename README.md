@@ -1,4 +1,4 @@
-# Online-Candy-and-Donut-Store-
+# Candy Shop
 
 A single page website of a candy shop that has the tastiest and sweetest candy treats to fill your appetite.
 
