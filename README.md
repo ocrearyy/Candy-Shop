@@ -8,6 +8,8 @@ A single page website of a candy shop that has the tastiest and sweetest candy t
 ![image](https://user-images.githubusercontent.com/40554384/151539127-dd4b86c8-ff68-4ebf-921e-5e142d84e523.png)
 ![image](https://user-images.githubusercontent.com/40554384/151539256-20b0c327-be45-405f-ab89-d500ae27a98f.png)
 ![image](https://user-images.githubusercontent.com/40554384/151539354-52376d13-dd6e-409f-a265-84eadd85f748.png)
+![dgfhj](https://user-images.githubusercontent.com/40554384/181591449-db821cc7-9afe-4a32-bd6d-339fe38a6e4c.JPG)
+
 
 ## 🚀 About Me
 I'm a full stack developer, Building solutions to change the world....
