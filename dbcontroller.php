@@ -1,19 +1,19 @@
 <?php
 class DBController {
-	private $host = "localhost";
-	private $user = "root";
-	private $password = "test";
-	private $database = "blog_samples";
-	private $conn;
+	// private $host = "localhost";
+	// private $user = "root";
+	// private $password = "test";
+	// private $database = "blog_samples";
+	// private $conn;
 	
-	function __construct() {
-		$this->conn = $this->connectDB();
-	}
+	// function __construct() {
+	// 	$this->conn = $this->connectDB();
+	// }
 	
-	function connectDB() {
-		$conn = mysqli_connect("localhost", "root", "", "tblproduct");
-		return $conn;
-	}
+	// function connectDB() {
+	// 	$conn = mysqli_connect("localhost", "root", "", "tblproduct");
+	// 	return $conn;
+	// }
 
 	//Get Heroku ClearDB connection information
 $cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
