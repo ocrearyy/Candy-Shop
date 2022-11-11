@@ -1,6 +1,7 @@
 <?php
+class DBController {
 //Get Heroku ClearDB connection information
-$cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+$cleardb_url = parse_url(getenv("us-cdbr-east-06.cleardb.net"));
 $cleardb_server = $cleardb_url["host"];
 $cleardb_username = $cleardb_url["user"];
 $cleardb_password = $cleardb_url["pass"];
@@ -10,13 +11,11 @@ $query_builder = TRUE;
 // Connect to DB
 $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 
-class DBController {
-
-	private $host = "localhost";
-	private $user = "root";
-	private $password = "test";
-	private $database = "blog_samples";
-	private $conn;
+	// private $host = "localhost";
+	// private $user = "root";
+	// private $password = "test";
+	// private $database = "blog_samples";
+	// private $conn;
 	///
 	function __construct() {
 		$this->conn = $this->connectDB();
