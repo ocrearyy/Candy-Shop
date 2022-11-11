@@ -27,6 +27,11 @@ $query_builder = TRUE;
 // Connect to DB
 // $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 
+
+function __construct() {
+		$this->conn = $this->connectDB();
+	}
+
 function connectDB() {
 	$conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 	return $conn;
