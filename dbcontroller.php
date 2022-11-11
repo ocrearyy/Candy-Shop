@@ -1,30 +1,28 @@
 <?php
 class DBController {
 //Get Heroku ClearDB connection information
-$cleardb_url = parse_url(getenv("mysql://bf5555c2e94b72:ed4ad925@us-cdbr-east-06.cleardb.net/heroku_4f7eaa1985e976e?"));
-$cleardb_server = $cleardb_url["host"];
-$cleardb_username = $cleardb_url["user"];
-$cleardb_password = $cleardb_url["pass"];
-$cleardb_db = substr($cleardb_url["path"],1);
-$active_group = 'default';
-$query_builder = TRUE;
-// Connect to DB
-$conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
+$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 
+$server = $url["host"];
+$username = $url["user"];
+$password = $url["pass"];
+$db = substr($url["path"], 1);
+
+$conn = new mysqli($server, $username, $password, $db);
 	// private $host = "localhost";
 	// private $user = "root";
 	// private $password = "test";
 	// private $database = "blog_samples";
 	// private $conn;
 	///
-	function __construct() {
-		$this->conn = $this->connectDB();
-	}
-	///
-	function connectDB() {
-		$conn = mysqli_connect("localhost", "root", "", "tblproduct");
-		return $conn;
-	}
+	// function __construct() {
+	// 	$this->conn = $this->connectDB();
+	// }
+	// ///
+	// function connectDB() {
+	// 	$conn = mysqli_connect("localhost", "root", "", "tblproduct");
+	// 	return $conn;
+	// }
 ///
 	function runQuery($query) {
 		$result = mysqli_query($this->conn,$query);
