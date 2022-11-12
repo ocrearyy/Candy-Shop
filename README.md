@@ -17,22 +17,22 @@ I'm a full stack developer, Building solutions to change the world....
 
 ## Built With
 
-- HTML5, CSS3
+- PHP, MySQL, HTML5, CSS3
 - FrameWork used is Bootstrap
 - Git, GitHub, VsCode, google fonts.
 
 ## Live Demo (Responsive Web Design for Mobile and Desktop)
 
-[Live Demo Link](candy-shop.42web.io/)
+[Live Demo Link](http://candy-shop.42web.io/)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-1. Git clone git@github.com:ocrearyy/Candy-Shop.git 
+1. Git clone git@github.com:ocrearyy/Candy-Shop.git
 
-2. Cd Online-Candy-and-Donut-Store
+2. Cd Candy-Shop
 
 
 ## Author
