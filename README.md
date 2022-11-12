@@ -23,7 +23,7 @@ I'm a full stack developer, Building solutions to change the world....
 
 ## Live Demo (Responsive Web Design for Mobile and Desktop)
 
-[Live Demo Link](http://candy-shop.42web.io/)
+[Live Demo Link](http://candy-shop.42web.io/index.html)
 
 
 ## Getting Started
