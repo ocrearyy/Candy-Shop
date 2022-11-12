@@ -1,5 +1,6 @@
 <?php
 class DBController {
+
 	private $host = "localhost";
 	private $user = "root";
 	private $password = "test";
@@ -9,7 +10,7 @@ class DBController {
 	function __construct() {
 		$this->conn = $this->connectDB();
 	}
-	
+
 	function connectDB() {
 		$conn = mysqli_connect("localhost", "root", "", "tblproduct");
 		return $conn;
