@@ -30,7 +30,7 @@ I'm a full stack developer, Building solutions to change the world....
 
 To get a local copy up and running follow these simple example steps.
 
-1. Git clone git@github.com:oshanedesign/Online-Candy-and-Donut-Store-.git
+1. Git clone git@github.com:ocrearyy/Candy-Shop.git 
 
 2. Cd Online-Candy-and-Donut-Store
 
